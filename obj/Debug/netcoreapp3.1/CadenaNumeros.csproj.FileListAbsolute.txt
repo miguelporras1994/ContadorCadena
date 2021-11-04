@@ -1,0 +1,13 @@
+C:\Users\Miguel\source\repos\CadenaNumeros\CadenaNumeros\bin\Debug\netcoreapp3.1\CadenaNumeros.exe
+C:\Users\Miguel\source\repos\CadenaNumeros\CadenaNumeros\bin\Debug\netcoreapp3.1\CadenaNumeros.deps.json
+C:\Users\Miguel\source\repos\CadenaNumeros\CadenaNumeros\bin\Debug\netcoreapp3.1\CadenaNumeros.runtimeconfig.json
+C:\Users\Miguel\source\repos\CadenaNumeros\CadenaNumeros\bin\Debug\netcoreapp3.1\CadenaNumeros.runtimeconfig.dev.json
+C:\Users\Miguel\source\repos\CadenaNumeros\CadenaNumeros\bin\Debug\netcoreapp3.1\CadenaNumeros.dll
+C:\Users\Miguel\source\repos\CadenaNumeros\CadenaNumeros\bin\Debug\netcoreapp3.1\CadenaNumeros.pdb
+C:\Users\Miguel\source\repos\CadenaNumeros\CadenaNumeros\obj\Debug\netcoreapp3.1\CadenaNumeros.csproj.AssemblyReference.cache
+C:\Users\Miguel\source\repos\CadenaNumeros\CadenaNumeros\obj\Debug\netcoreapp3.1\CadenaNumeros.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\CadenaNumeros\CadenaNumeros\obj\Debug\netcoreapp3.1\CadenaNumeros.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\CadenaNumeros\CadenaNumeros\obj\Debug\netcoreapp3.1\CadenaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\CadenaNumeros\CadenaNumeros\obj\Debug\netcoreapp3.1\CadenaNumeros.dll
+C:\Users\Miguel\source\repos\CadenaNumeros\CadenaNumeros\obj\Debug\netcoreapp3.1\CadenaNumeros.pdb
+C:\Users\Miguel\source\repos\CadenaNumeros\CadenaNumeros\obj\Debug\netcoreapp3.1\CadenaNumeros.genruntimeconfig.cache

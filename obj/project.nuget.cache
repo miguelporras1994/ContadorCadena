@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "39zWwIVI5NvmbX7rLUzcPDrAOyCBqYUiGQCJT9rfF35SsVCDivcOgqLvqqL0z6pUL4femIbSdeqMlqN3h/782w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Miguel\\source\\repos\\CadenaNumeros\\CadenaNumeros\\CadenaNumeros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miguel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
